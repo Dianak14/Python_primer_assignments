@@ -1,0 +1,4 @@
+original_text = "Where is my cat?"
+shouting_text = original_text.upper
+print(shouting_text)
+
